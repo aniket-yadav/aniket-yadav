@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Aniket Yadav<br>Working as Mobile Application Developer at DataQuent Private Limited.<br>I like coding, especially mobile app development.<br>I have experience with native android and flutter.<br>
+Hey, I'm Aniket Yadav<br>Working as Technical Lead at DataQuent Private Limited.<br>I like coding, especially mobile app development.<br>I have experience with native android and flutter.<br>
 
 
 ## 🌐 Socials:
